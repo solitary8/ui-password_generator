@@ -7,7 +7,9 @@ Hope you enjoy this project \
 ## Requirements for the program to work :
 You will need Python 3 language installed, and that's all !
 ## Steps to download the repository :
-`git clone https://github.com/solitary8/ui-password_generator.git` \
-`cd ui-password_generator` \
-`python3 passgen.py` \
-Now it should work,if it doesn't then submit an issue,thanks for using the tool ! 
+```
+git clone https://github.com/solitary8/ui-password_generator.git  
+cd ui-password_generator  
+python3 passgen.py
+```
+#### Now it should work,if it doesn't then submit an issue,thanks for using the tool ! 
